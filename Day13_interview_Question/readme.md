@@ -1,3 +1,5 @@
+# EDA Report
+
 The exploratory data analysis (EDA) reveals key insights into the dataset, encompassing 10,000 records and 164 features. Here's a summary of the findings and actions taken:
 
 1. **Handling Missing Values:**
